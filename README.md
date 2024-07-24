@@ -1,9 +1,9 @@
 # Squad Carmen Portinho 📐🌳 
-![Carmen Portinho](https://iab.org.br/wp-content/uploads/2022/08/CarmenPortinho1.jpg)
+![Carmen Portinho](https://publica.ciar.ufg.br/ebooks/ebook-cientistas-brasileiras/imagens/cap02.png)
+*Créditos da imagem: [publica.ciar.ufg.br](https://publica.ciar.ufg.br/ebooks/ebook-cientistas-brasileiras/02.html)*
 
 
-## Integrantes:
-
+## Integrantes 👩💻  
 - Ana Caroline Freiria Pires
 - Andrezza Nogueira da Silva
 - Arielle Ribeiro de Oliveira Tavares
