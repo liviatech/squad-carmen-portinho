@@ -13,3 +13,6 @@
 - Maria Betânia Paiva Nunes
 - Rosicleide Aparecida Fonseca Xistulino
 - Thais D'avilla de Souza Mesquita Pereira
+
+## Organização 📂
+A nossa Squad escolheu organizar-se assim e assado para realizar os desafios. 
